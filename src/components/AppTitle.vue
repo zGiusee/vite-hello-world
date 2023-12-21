@@ -8,8 +8,4 @@
   </div>
 </template>
 
-<style>
-h1 {
-  color: white;
-}
-</style>
+<style></style>
