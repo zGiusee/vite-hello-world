@@ -1,5 +1,5 @@
 <script>
-// IMPORTOLE APPLICAZIONI
+// IMPORTO LE APPLICAZIONI
 import AppTitle from './components/AppTitle.vue'
 import AppHero from './components/AppHero.vue'
 
